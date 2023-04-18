@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>PCdanyi@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.4%" y="-5.9%" width="114.9%" height="116.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.293789629 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-199.000000, -7961.000000)" fill="#5BC1DF" fill-rule="nonzero">
+            <g id="Group-19" transform="translate(199.000000, 7948.000000)">
+                <g id="PCdanyi" filter="url(#filter-1)" transform="translate(14.000000, 26.000000)">
+                    <path d="M89.1249614,5 L2.87503855,5 C1.28715942,5 0,3.88074594 0,2.5 C0,1.11925406 1.28715942,0 2.87503855,0 L89.1249614,0 C90.7128406,0 92,1.11925406 92,2.5 C92,3.88074594 90.7128406,5 89.1249614,5 Z" id="Shape"></path>
+                    <path d="M35.2,18.2241199 C36.5783678,18.2241199 37.7428293,19.3824306 37.7428293,20.7535178 L37.7428293,76.2464822 C37.7428293,77.6175694 36.5783678,78.7758801 35.2,78.7758801 L8.8,78.7758803 C7.42163217,78.7758803 6.25717069,77.6175695 6.25717069,76.2464824 L6.25717056,20.7535178 C6.25717056,19.3824306 7.42163205,18.2241199 8.79999988,18.2241199 L35.2,18.2241199 Z M35.2,12 L8.8,12 C3.95997484,12 0,15.939058 0,20.7535178 L0,76.2464822 C0,81.060942 3.95997484,85 8.8,85 L35.2,85 C40.0400252,85 44,81.060942 44,76.2464822 L44,20.7535178 C43.9998741,15.939058 40.0398993,12 35.2,12 Z" id="Shape"></path>
+                    <path d="M85.2,18.2219045 C86.5772348,18.2219045 87.740689,19.3784059 87.740689,20.74741 L87.740689,76.25259 C87.740689,77.6215943 86.5772347,78.7780955 85.2,78.7780955 L58.8,78.7780955 C57.4227652,78.7780955 56.259311,77.6215941 56.259311,76.25259 L56.259311,20.74741 C56.259311,19.3784057 57.4227653,18.2219045 58.8,18.2219045 L85.2,18.2219045 Z M85.2,12 L58.8,12 C53.9599748,12 50,15.9363095 50,20.74741 L50,76.25259 C50,81.0636905 53.9599748,85 58.8,85 L85.2,85 C90.0400252,85 94,81.0636905 94,76.25259 L94,20.74741 C94,15.9363095 90.0400253,12 85.2,12 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

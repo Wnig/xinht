@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pchyhb@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.2%" y="-5.1%" width="114.4%" height="114.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.29 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1252.000000, -7948.000000)" fill="#5BC1DF" fill-rule="nonzero">
+            <g id="Group-19" transform="translate(199.000000, 7948.000000)">
+                <g id="pchyhb" filter="url(#filter-1)" transform="translate(1066.000000, 13.000000)">
+                    <path d="M50,0 C50,0 50.5789474,0 50,0 C54.0526316,0 57.5263158,0.608108108 61,1.21621622 L50.5789474,45 L50,0 Z" id="Shape"></path>
+                    <path d="M85.8082192,44.4797297 L43.5,53.5 L42.9041096,9 C19.0684932,9.60135135 0,29.4459459 0,53.5 C0,78.1554054 19.6643836,98 43.5,98 C67.9315068,98 87,78.1554054 87,53.5 C87,50.4932432 87,47.4864865 85.8082192,44.4797297 Z M43.5,94.6324324 C21.809589,94.6324324 3.87328767,76.5317568 3.87328767,54.1013514 C3.87328767,32.2121622 18.2938356,14.1114865 39.9842466,13.5702703 L40.5205479,57.7094595 L82.65,49.4709459 C83.1267123,51.8162162 83.1267123,51.3351351 83.1267123,54.1013514 C83.1267123,76.5317568 65.7863014,94.6324324 43.5,94.6324324 Z" id="Shape"></path>
+                    <path d="M65.6478873,2 L55,44 L97,35.1267606 C93.4507042,19.1549296 81.6197183,6.14084507 65.6478873,2 Z M68.3098592,7.38309859 C80.2,10.4591549 89.0140845,20.1605634 91.6760563,32.0507042 L60.3830986,38.6760563 L68.3098592,7.38309859 Z" id="Shape"></path>
+                    <path d="M83.8572464,44.4678112 L43.5,53 L42.9586957,11 C20.1637681,11.5407725 2,30.2875536 2,53 C2,76.3133047 20.7652174,95 43.5,95 C66.8362319,95 85,76.2532189 85,53 C85,50.1759657 85,47.2918455 83.8572464,44.4678112 Z M43.5,91.8755365 C22.8101449,91.8755365 5.66884058,74.751073 5.66884058,53.6008584 C5.66884058,32.9313305 19.442029,15.806867 40.1318841,15.3261803 L40.6731884,57.0257511 L80.85,49.2746781 C81.3311594,51.4978541 81.3311594,51.0171674 81.3311594,53.6609442 C81.3311594,74.751073 64.7913043,91.8755365 43.5,91.8755365 Z" id="Shape"></path>
+                    <polygon id="Shape" points="44 58.8883184 38.3125 61 37 14.1206675 41.0625 14"></polygon>
+                    <polygon id="Shape" points="83.0980392 48 84 51.6331878 38 61 38.7816993 57.5371179"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

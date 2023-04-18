@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pcjuesda@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.6%" y="-5.3%" width="115.2%" height="114.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.29 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1598.000000, -7951.000000)" fill="#5BC1DF" fill-rule="nonzero">
+            <g id="Group-19" transform="translate(199.000000, 7948.000000)">
+                <g id="pcjuesda" filter="url(#filter-1)" transform="translate(1415.000000, 17.000000)">
+                    <path d="M62.5554,43.4048653 C67.5631439,38.8415172 70.715248,32.2445313 70.715248,24.9190198 C70.715248,11.1787003 59.628144,0 46.000184,0 C32.3722241,0 21.284936,11.1787003 21.284936,24.9190198 C21.284936,32.2246809 24.4193759,38.8057123 29.4032,43.3677619 C20.880504,46.5349088 13.770008,52.2978101 8.62315996,60.2763415 C3.06249595,68.8963907 0,79.928347 0,91.3396857 L0,94 L92,94 L92,91.3396857 C92.000184,72.3473787 82.844344,51.028317 62.5554,43.4048653 Z M26.56224,24.9190198 C26.56224,14.1124667 35.282,5.32081416 46.000184,5.32081427 C56.718368,5.32081437 65.4379441,14.1124668 65.437944,24.9190198 C65.437944,35.7253874 56.7181839,44.5170399 46.0000001,44.5170399 C35.2818162,44.5170399 26.56224,35.7252019 26.56224,24.9190198 Z M5.34023204,88.6793713 C6.11836803,72.1648299 14.2060881,52.5337878 34.934608,47.1960915 C38.265744,48.8848531 42.024312,49.8376686 46.0000001,49.8376686 C49.9593121,49.8376686 53.703344,48.8926448 57.024176,47.2168695 C76.534984,52.3581032 85.804352,71.1953179 86.657744,88.6793713 L5.34023204,88.6793713 Z" id="Shape"></path>
+                    <polygon id="Shape" points="50.75 50.8972927 42.25 50.8972927 38 50 43.4309879 56.9403157 39.0940906 80.98964 46.5000001 87 53.4369605 80.98964 50.1595061 56.9403157 55 50"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

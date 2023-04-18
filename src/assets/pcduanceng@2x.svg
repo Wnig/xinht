@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pcduanceng@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.1%" y="-5.4%" width="112.2%" height="115.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.29 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-549.000000, -7959.000000)" fill="#5BC1DF" fill-rule="nonzero">
+            <g id="Group-19" transform="translate(199.000000, 7948.000000)">
+                <g id="pcduanceng" filter="url(#filter-1)" transform="translate(354.000000, 24.000000)">
+                    <path d="M60.375,17.25 L60.375,23 L14.375,23 C9.61154403,23 5.75,26.861544 5.75,31.625 L5.75,43.26875 C5.75,48.02975 9.614,51.89375 14.40375,51.89375 L60.3635,51.7385 L60.3865,57.4885 L14.375,57.64375 C6.43590672,57.64375 9.72258517e-16,51.2078433 0,43.26875 L0,31.625 C-9.72258517e-16,23.6859067 6.43590672,17.25 14.375,17.25 L60.375,17.25 Z M57.5,40.25 L57.5,34.5 L100.625,34.5 C108.564093,34.5 115,40.9359067 115,48.875 L115,60.375 C115,68.3140933 108.564093,74.75 100.625,74.75 L57.5,74.75 L57.5,69 L100.625,69 C105.388456,69 109.25,65.138456 109.25,60.375 L109.25,48.875 C109.25,44.111544 105.388456,40.25 100.625,40.25 L57.5,40.25 Z M69,0 L74.75,0 L74.75,17.25 L69,17.25 L69,0 Z M40.25,74.75 L46,74.75 L46,92 L40.25,92 L40.25,74.75 Z M25.875,67.80975 L29.94025,71.875 L14.375,87.44025 L10.30975,83.375 L25.875,67.80975 Z M94.875,4.55975 L98.94025,8.625 L83.375,24.19025 L79.30975,20.125 L94.875,4.55975 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

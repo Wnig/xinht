@@ -1,0 +1,21 @@
+<svg width="153px" height="16px" viewBox="0 0 153 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-540.000000, -4102.000000)" stroke="#FFF" stroke-width="3">
+            <g id="Group-11" transform="translate(542.000000, 4104.000000)">
+                <g id="duanbolang">
+                    <path d="M0,6 C5.59075166,-2 10.6492011,-2 15.1753483,6 C19.7014955,14 24.2374069,14 28.7830824,6 C33.4814624,-1.81428227 38.6962925,-1.81428227 44.4275726,6 C50.1588527,13.8142823 55.3496618,13.8142823 60,6" id="Oval"></path>
+                    <path d="M60,6 C65.5907517,-2 70.6492011,-2 75.1753483,6 C79.7014955,14 84.2374069,14 88.7830824,6 C93.4814624,-1.81428227 98.6962925,-1.81428227 104.427573,6 C110.158853,13.8142823 115.349662,13.8142823 120,6" id="Oval-Copy"></path>
+                    <path d="M120,6 C125.5907517,-2 130.6492011,-2 135.1753483,6 C139.7014955,14 144.2374069,14 148.7830824,6 C153.4814624,-1.81428227 158.6962925,-1.81428227 164.427573,6 C170.158853,13.8142823 175.349662,13.8142823 180,6" id="Oval-Copy-1"></path>
+                    <path d="M180,6 C185.590752,-2 190.649201,-2 195.175348,6 C199.701496,14 204.237407,14 208.783082,6" id="Oval-Copy-2"></path>
+                    <animateTransform
+                        attributeName="transform"
+                        attributeType="XML"
+                        type="translate"
+                        from="0" to="-50" dur="3.5s" 
+                        repeatCount="indefinite">
+                    </animateTransform>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
